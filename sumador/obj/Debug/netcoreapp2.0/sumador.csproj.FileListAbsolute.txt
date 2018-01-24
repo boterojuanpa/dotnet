@@ -1,0 +1,11 @@
+D:\charla-net-core\sumador\sumador\bin\Debug\netcoreapp2.0\sumador.deps.json
+D:\charla-net-core\sumador\sumador\bin\Debug\netcoreapp2.0\sumador.runtimeconfig.json
+D:\charla-net-core\sumador\sumador\bin\Debug\netcoreapp2.0\sumador.runtimeconfig.dev.json
+D:\charla-net-core\sumador\sumador\bin\Debug\netcoreapp2.0\sumador.dll
+D:\charla-net-core\sumador\sumador\bin\Debug\netcoreapp2.0\sumador.pdb
+D:\charla-net-core\sumador\sumador\obj\Debug\netcoreapp2.0\sumador.csproj.CoreCompileInputs.cache
+D:\charla-net-core\sumador\sumador\obj\Debug\netcoreapp2.0\sumador.AssemblyInfoInputs.cache
+D:\charla-net-core\sumador\sumador\obj\Debug\netcoreapp2.0\sumador.AssemblyInfo.cs
+D:\charla-net-core\sumador\sumador\obj\Debug\netcoreapp2.0\sumador.dll
+D:\charla-net-core\sumador\sumador\obj\Debug\netcoreapp2.0\sumador.pdb
+D:\charla-net-core\sumador\sumador\obj\Debug\netcoreapp2.0\Sumador.csprojResolveAssemblyReference.cache

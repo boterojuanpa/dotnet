@@ -1,0 +1,16 @@
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Sumador.Test.deps.json
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Sumador.Test.runtimeconfig.json
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Sumador.Test.runtimeconfig.dev.json
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Sumador.Test.dll
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\Sumador.Test.pdb
+D:\charla-net-core\sumador\Sumador.Test\obj\Debug\netcoreapp2.0\Sumador.Test.csprojResolveAssemblyReference.cache
+D:\charla-net-core\sumador\Sumador.Test\obj\Debug\netcoreapp2.0\Sumador.Test.csproj.CoreCompileInputs.cache
+D:\charla-net-core\sumador\Sumador.Test\obj\Debug\netcoreapp2.0\Sumador.Test.AssemblyInfoInputs.cache
+D:\charla-net-core\sumador\Sumador.Test\obj\Debug\netcoreapp2.0\Sumador.Test.AssemblyInfo.cs
+D:\charla-net-core\sumador\Sumador.Test\obj\Debug\netcoreapp2.0\Sumador.Test.dll
+D:\charla-net-core\sumador\Sumador.Test\obj\Debug\netcoreapp2.0\Sumador.Test.pdb
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\sumador.dll
+D:\charla-net-core\sumador\Sumador.Test\bin\Debug\netcoreapp2.0\sumador.pdb
